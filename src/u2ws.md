@@ -12,6 +12,12 @@
 Fill out this sheet as you progress through the lab and discussions. Hold your worksheets until
 the end to turn them in as a final submission packet.
 
+#### Required Materials
+
+Download the STIG Viewer 2.18 from - <https://public.cyber.mil/stigs/downloads/>  
+Download the STIG for RHEL 9 and the import it into your STIG viewer  
+Create a checklist from the opened STIG for RHEL 9  
+
 ### Resources / Important Links
 
 - <https://www.sans.org/information-security-policy/>
@@ -43,10 +49,6 @@ could be transposed to a `.md` file.
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
 </iframe>
-
-Download the STIG Viewer 2.18 from - https://public.cyber.mil/stigs/downloads/
-Download the STIG for RHEL 9 and the import it into your STIG viewer
-Create a checklist from the opened STIG for RHEL 9
 
 #### Discussion Post #1
 
